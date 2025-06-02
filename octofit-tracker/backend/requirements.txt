@@ -1,2 +1,2 @@
-django==4.2
+django==4.1
 pymongo==4.5
